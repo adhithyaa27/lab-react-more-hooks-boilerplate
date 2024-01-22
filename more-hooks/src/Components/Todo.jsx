@@ -4,7 +4,7 @@ import Todoitem from './Todoitem.jsx'
 
 const state = [
     {
-        inputData: "Hello everyone this is Shaswath 😎",
+        inputData: "Hi there, I'm Ady",
         hidden: false
     }
 ]
